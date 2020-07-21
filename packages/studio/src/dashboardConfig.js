@@ -18,12 +18,12 @@ export default {
         data: [
           {
             title: 'GitHub repo',
-            value: 'REPO_URL',
+            value: 'https://github.com/akulk5/liberty-beauty-portal.git',
             category: 'Code'
           },
           {
             title: 'Frontend',
-            value: 'FRONTEND_URL',
+            value: 'http://blissful-ptolemy-c2826d.netlify.app',
             category: 'apps'
           }
         ]
